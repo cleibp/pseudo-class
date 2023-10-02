@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to right, #26d0ce, #1a2980);
+ }
+ 
+ ul {
+   display: flex;
+ }
+ 
+ ul li {
+   list-style: none;
+   width: 50px;
+   height: 50px;
+   background: gray;
+   border-radius: 50px;
+   margin-right: 16px;
+ }
+ 
+ ul li:nth-child(1) {
+   background: purple;
+ }
+ 
