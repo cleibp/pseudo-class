@@ -25,7 +25,7 @@ Exemplificação de Pseudo Class
 ```sh
 .
 ├── README.md
-└── index.html
+├── index.html
 └── style.css
 ```
 
